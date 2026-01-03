@@ -1,3 +1,9 @@
 {
-  "value": 10
+  "labels": ["Month 1", "Month 2", "Month 3"],
+  "datasets": [
+    {
+      "label": "Monthly Values",
+      "data": [32250.12, 35000, 38000]
+    }
+  ]
 }
