@@ -1,12 +1,4 @@
 {
-  "series": [
-    {
-      "name": "Monthly Data",
-      "data": [
-        { "x": "Month 1", "y": 32250.12 },
-        { "x": "Month 2", "y": 35000 },
-        { "x": "Month 3", "y": 38000 }
-      ]
-    }
-  ]
+  "months": ["Month 1", "Month 2", "Month 3"],
+  "values": [32250.12, 35000, 38000]
 }
